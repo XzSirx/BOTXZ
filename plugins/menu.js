@@ -34,7 +34,8 @@ let tags = {
 const defaultMenu = {
   before: `
   Hi %name
-I am an Automatic ( Betabotz - Md Whatsapp Bot) that can help you with various needs such as downloading videos, making stickers, etc 
+*Saya Sirx - Botz Siap Membantu*
+*Rasa bahagia dan tak bahagia bukan berasal dari apa yang kamu miliki\nbukan pula berasal dari siapa diri kamu, atau apa yang kamu kerjakan\nBahagia dan tak bahagia berasal dari pikiran mu.*
 
 *-----------[ Info Bot ]-----------*
 √  *Library:* Baileys
