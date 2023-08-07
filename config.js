@@ -13,24 +13,24 @@
 // Betabotz = digunakan hampir di semua fitur kecuali linkshort
 // Botcahx  = digunakan untuk linkshort saja
 
-global.owner = ['6285842647866']  
-global.mods = ['6285842647866'] 
-global.prems = ['6285842647866']
-global.nameowner = 'Lann'
-global.numberowner = '6285842647866' 
-global.mail = 'fxacbapi.my.id@gmail.com' 
-global.dana = '6281395861695'
-global.pulsa = '6281395861695'
-global.gopay = '6281395861695'
-global.namebot = 'BETABOTZ-MD'
+global.owner = ['6282181426210']  
+global.mods = ['6282181426210'] 
+global.prems = ['6282181426210']
+global.nameowner = 'Sir'
+global.numberowner = '6282181426210' 
+global.mail = 'farijizyg@gmail.com' 
+global.dana = '6282124032963'
+global.pulsa = '6282272806476'
+global.gopay = '6282124032963'
+global.namebot = 'SirxZ'
 global.gc = 'https://chat.whatsapp.com/G4f1fTpz9zL4EH3FyIcaPR'
 global.web = 'https://github.com/BOTCAHX'
 global.instagram = 'https://instagram.com/prm2.0'
-global.wm = 'Beta BOT-MD'
+global.wm = 'SirXzMD'
 global.watermark = wm
-global.wm2 = '⫹⫺ Beta Bot'
-global.wm3 = '© Lann'
-global.wm4 = 'made by BetaBotz-MD'
+global.wm2 = '⫹⫺Sirxz'
+global.wm3 = '©Sir'
+global.wm4 = 'made by SirXz'
 global.wait = '_*Tunggu sedang di proses...*_'
 global.eror = '_*Server Error*_'
 global.benar = 'Benar ✅\n'
@@ -43,14 +43,14 @@ global.author = 'Bot WhatsApp'
 global.thumb = 'https://telegra.ph/file/ec75e8bd53238f11603d9.jpg'
 
 //===> Apikey
-global.lann = 'Your_Key_Here' //isi apikey mu https://api.betabotz.org
-global.btc = 'Your_Key_Here'//Isi apikey di https://api.botcahx.live
+global.lann = 'QgeZCdzv' //isi apikey mu https://api.betabotz.org
+global.btc = 'hNWMYr9B'//Isi apikey di https://api.botcahx.live
 global.APIs = {   
   lann: 'https://api.betabotz.org',
   btc: 'https://api.botcahx.live'
 }
 global.APIKeys = { 
-  'https://api.betabotz.org': 'Your_Key' //isi apikey mu https://api.betabotz.org
+  'https://api.betabotz.org': 'QgeZCdzv' //isi apikey mu https://api.betabotz.org
 }
 
 global.multiplier = 45
